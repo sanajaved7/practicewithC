@@ -1,8 +1,6 @@
 // Program that prompts user for name and returns user's
 // capitalized initials.
 
-
-#include <cs50.h>
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
